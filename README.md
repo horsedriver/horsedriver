@@ -17,6 +17,7 @@ I build practical systems at the intersection of **automation**, **local-first w
 - **dumpAmp** — local-first music ingest, analysis, identification and tagging pipeline
 - **chatgpt-viewer** — tooling around ChatGPT usage and visibility
 - **is_KeyFinder** — music key detection related work
+- **VOODOO Clean** *(private)* — research framework for structured AI reasoning, prompt architecture, decision pipelines and risk-aware assistant behavior
 
 ## What I care about
 I like systems that are modular, inspectable, automatable, and actually usable by humans.
