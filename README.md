@@ -1,16 +1,18 @@
-## Hi there 👋
+# Johnny Deep
 
-<!--
-**horsedriver/horsedriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical systems at the intersection of **automation**, **local-first workflows**, **backend architecture**, and **music technology**.
 
-Here are some ideas to get you started:
+## Focus
+- Python tooling and CLI workflows
+- backend and service-oriented architecture
+- metadata and ingestion pipelines
+- automation for real-world operations
+- audio and music-tech experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected projects
+- **dumpAmp** — local-first music ingest, analysis, identification and tagging pipeline
+- **chatgpt-viewer** — tooling around ChatGPT usage and visibility
+- **is_KeyFinder** — music key detection related work
+
+## What I care about
+I like systems that are modular, inspectable, automatable, and actually usable by humans.
