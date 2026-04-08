@@ -1,10 +1,10 @@
-# Hi, I'm Jan Kočí aka  Johnny Deep
+# Jan Kočí / Johnny Deep
 
-Support and infrastructure engineer focused on Linux, telco environments, Kubernetes, troubleshooting, and production operations.
+Infrastructure and systems engineer focused on Linux, telco environments, Kubernetes, automation, and production operations.
 
-I enjoy building reliable systems, automating repetitive work, and solving ugly problems before they become expensive ones.
+I build practical tools and workflows across backend architecture, local-first systems, metadata pipelines, and music technology.
 
-I build practical systems at the intersection of **automation**, **local-first workflows**, **backend architecture**, and **music technology**.
+I like modular, inspectable systems that solve real operational problems and remain usable by actual humans.
 
 ## Focus
 - Python tooling and CLI workflows
