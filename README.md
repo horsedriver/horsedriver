@@ -1,50 +1,69 @@
-# Jan Kočí / Johnny Deep
+<div align="center">
 
-**Systems Architect · Infrastructure · AI · Automation · Creative Technology**
+# Jan Kočí
 
-I design and build practical systems across infrastructure, networking, automation, AI-assisted operations, and music technology.
+### Systems Architect · Infrastructure · AI · Automation · Creative Technology
 
-My work spans production infrastructure, OpenWrt tooling, local-first applications, metadata pipelines, operational intelligence, and experimental creative software.
+I build **understandable systems** across infrastructure, networking, automation, AI-assisted operations and creative technology.
 
-I prefer systems that are **inspectable, modular, recoverable, and useful to actual humans**.
+[![Website](https://img.shields.io/badge/jankoci.cz-website-111111?style=for-the-badge)](https://jankoci.cz)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-systems-222222?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-assisted_operations-333333?style=for-the-badge)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-networking-444444?style=for-the-badge)
 
----
-
-## Current focus
-
-`Linux` · `Infrastructure` · `Networking` · `OpenWrt` · `Python` · `Automation`  
-`AI systems` · `Local-first software` · `APIs` · `Audio / Music tech`
-
-## Selected projects
-
-### [dumpAmp](https://github.com/horsedriver/dumpAmp)
-Local-first music ingestion, metadata, and audio-analysis tooling.
-
-### [jankoci.cz](https://github.com/horsedriver/jankoci.cz)
-Personal portfolio and technical work index.
-
-### [chatgpt-viewer](https://github.com/horsedriver/chatgpt-viewer)
-Small utility project for working with ChatGPT conversation data.
-
-## Contributions & collaboration
-
-### [CyberCore](https://github.com/cyberDJs/CyberCore)
-Infrastructure intelligence, evidence-driven system modelling, and operational tooling.
-
-### [CyberWRT](https://github.com/cyberDJs/CyberWRT)
-OpenWrt tooling, network operations, and management interfaces.
-
-### VOODOO ecosystem
-Contributor to collaborative and experimental work around AI reasoning, structured workflows, and agent architecture.
+</div>
 
 ---
 
-## How I build
+## ⚡ Current work
 
-- **Understandable over magical**
-- **Local-first where it makes sense**
-- **Automation without loss of control**
-- **Evidence before assumptions**
-- **Humans stay in the loop**
+| Project | What it is | Focus |
+|---|---|---|
+| **[CyberCore](https://github.com/cyberDJs/CyberCore)** | Infrastructure intelligence and evidence-driven operational architecture | Infrastructure · AI · Automation |
+| **[CyberWRT](https://github.com/cyberDJs/CyberWRT)** | OpenWrt tooling and network operations environment | Networking · OpenWrt · Operations |
 
-> Build understandable systems. Automate the boring parts. Keep humans in control.
+These are the projects where I currently concentrate most of my systems, infrastructure and product architecture work.
+
+---
+
+## 🧭 What I work on
+
+```text
+infrastructure   → Linux · production systems · service architecture
+networking       → OpenWrt · routing · network operations
+intelligence     → AI-assisted operations · evidence-driven systems
+automation       → Python · APIs · operational workflows
+creative tech    → audio · music tooling · local-first experiments
+```
+
+---
+
+## 🧪 Selected private / experimental work
+
+**dumpAmp** — local-first music ingestion, metadata and audio-analysis tooling.  
+**VOODOO Clean** — structured AI reasoning and decision-workflow research.
+
+Some projects live privately while they are being developed, tested or used internally.
+
+---
+
+## 🤝 Contributions
+
+**VOODOO ecosystem** — contributor to collaborative work around AI reasoning, structured workflows and agent architecture.
+
+---
+
+## Principles
+
+> **Understandable over magical.**  
+> **Evidence before assumptions.**  
+> **Automate the boring parts.**  
+> **Keep humans in control.**
+
+<div align="center">
+
+### [jankoci.cz](https://jankoci.cz)
+
+`systems / infrastructure / networks / AI / automation / music technology`
+
+</div>
