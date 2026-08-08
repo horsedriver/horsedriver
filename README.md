@@ -1,24 +1,50 @@
 # Jan Kočí / Johnny Deep
 
-Infrastructure and systems engineer focused on Linux, telco environments, Kubernetes, automation, and production operations.
+**Systems Architect · Infrastructure · AI · Automation · Creative Technology**
 
-I build practical tools and workflows across backend architecture, local-first systems, metadata pipelines, and music technology.
+I design and build practical systems across infrastructure, networking, automation, AI-assisted operations, and music technology.
 
-I like modular, inspectable systems that solve real operational problems and remain usable by actual humans.
+My work spans production infrastructure, OpenWrt tooling, local-first applications, metadata pipelines, operational intelligence, and experimental creative software.
 
-## Focus
-- Python tooling and CLI workflows
-- backend and service-oriented architecture
-- metadata and ingestion pipelines
-- automation for real-world operations
-- audio and music-tech experiments
+I prefer systems that are **inspectable, modular, recoverable, and useful to actual humans**.
 
-## Featured repositories
-- `dumpAmp` — audio / tooling project
-- `crypto-trading-lab` — trading experiments and analysis
-- `chatgpt-viewer` — utility project
-- `binance-reporter` — reporting / automation
-- `VOODOO Clean` *(private)* — research framework for structured AI reasoning, prompt architecture, decision pipelines and risk-aware assistant behavior
+---
 
-## What I care about
-I like systems that are modular, inspectable, automatable, and actually usable by humans.
+## Current focus
+
+`Linux` · `Infrastructure` · `Networking` · `OpenWrt` · `Python` · `Automation`  
+`AI systems` · `Local-first software` · `APIs` · `Audio / Music tech`
+
+## Selected projects
+
+### [dumpAmp](https://github.com/horsedriver/dumpAmp)
+Local-first music ingestion, metadata, and audio-analysis tooling.
+
+### [jankoci.cz](https://github.com/horsedriver/jankoci.cz)
+Personal portfolio and technical work index.
+
+### [chatgpt-viewer](https://github.com/horsedriver/chatgpt-viewer)
+Small utility project for working with ChatGPT conversation data.
+
+## Contributions & collaboration
+
+### [CyberCore](https://github.com/cyberDJs/CyberCore)
+Infrastructure intelligence, evidence-driven system modelling, and operational tooling.
+
+### [CyberWRT](https://github.com/cyberDJs/CyberWRT)
+OpenWrt tooling, network operations, and management interfaces.
+
+### VOODOO ecosystem
+Contributor to collaborative and experimental work around AI reasoning, structured workflows, and agent architecture.
+
+---
+
+## How I build
+
+- **Understandable over magical**
+- **Local-first where it makes sense**
+- **Automation without loss of control**
+- **Evidence before assumptions**
+- **Humans stay in the loop**
+
+> Build understandable systems. Automate the boring parts. Keep humans in control.
