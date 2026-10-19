@@ -35,6 +35,6 @@ Linux · Docker/Podman · Kubernetes · Terraform · Ansible · Python · Bash �
 
 ## Contact
 
-[Portfolio — jankoci.cz](https://jankoci.cz) · [LinkedIn](https://www.linkedin.com/in/jankoci/)
+[Portfolio — jankoci.cz](https://jankoci.cz)
 
 *Based in Prague, working remotely across Europe.*
