@@ -1,69 +1,40 @@
-<div align="center">
-
 # Jan Kočí
 
-### Systems Architect · Infrastructure · AI · Automation · Creative Technology
+### AI & Infrastructure Solutions Architect
 
-I build **understandable systems** across infrastructure, networking, automation, AI-assisted operations and creative technology.
+I design and improve **secure, operable systems** where Linux infrastructure, cloud platforms, automation and applied AI have to work together in the real world.
 
-[![Website](https://img.shields.io/badge/jankoci.cz-website-111111?style=for-the-badge)](https://jankoci.cz)
-![Infrastructure](https://img.shields.io/badge/Infrastructure-systems-222222?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-assisted_operations-333333?style=for-the-badge)
-![OpenWrt](https://img.shields.io/badge/OpenWrt-networking-444444?style=for-the-badge)
+My work sits at the boundary of architecture and delivery: turning operational or business needs into systems that are observable, maintainable, secure and useful to the people who run them.
 
-</div>
+## Focus
 
----
+- **Infrastructure & platform engineering** — Linux, containers, CI/CD, observability, networking and self-hosted systems
+- **Applied AI & automation** — internal tools, API integrations, LLM/agent workflows and human-approved operations
+- **Secure technical delivery** — architecture, troubleshooting, documentation, change control and cross-team delivery
 
-## ⚡ Current work
+## Selected public work
 
-| Project | What it is | Focus |
-|---|---|---|
-| **[CyberCore](https://github.com/cyberDJs/CyberCore)** | Infrastructure intelligence and evidence-driven operational architecture | Infrastructure · AI · Automation |
-| **[CyberWRT](https://github.com/cyberDJs/CyberWRT)** | OpenWrt tooling and network operations environment | Networking · OpenWrt · Operations |
+| Project | What it demonstrates |
+|---|---|
+| [CyberCore](https://github.com/cyberDJs/CyberCore) | An evidence-first infrastructure intelligence platform: governed decisions, traceable operational context and controlled automation |
+| [CyberCore Sentinel](https://github.com/horsedriver/CyberCore-Sentinel) | Cross-platform security audit and forensic-triage toolkit designed read-only by default |
+| [jankoci.cz](https://jankoci.cz) | Proof-first technical portfolio with public case studies and a documented delivery workflow |
 
-These are the projects where I currently concentrate most of my systems, infrastructure and product architecture work.
+> Public repositories contain reusable, sanitized work. Client systems, credentials, production inventory and private topology stay private by design.
 
----
+## Working principles
 
-## 🧭 What I work on
+- Evidence before assumptions
+- Human authority before consequential automation
+- Verification after every meaningful change
+- Clear ownership, documented decisions and systems people can actually operate
 
-```text
-infrastructure   → Linux · production systems · service architecture
-networking       → OpenWrt · routing · network operations
-intelligence     → AI-assisted operations · evidence-driven systems
-automation       → Python · APIs · operational workflows
-creative tech    → audio · music tooling · local-first experiments
-```
+## Technology
 
----
+Linux · Docker/Podman · Kubernetes · Terraform · Ansible · Python · Bash · Git/CI/CD · PostgreSQL/MySQL · Grafana/Prometheus/Loki · Cloud platforms · VMware/Proxmox · Secure networking
 
-## 🧪 Selected private / experimental work
+## Contact
 
-**dumpAmp** — local-first music ingestion, metadata and audio-analysis tooling.  
-**VOODOO Clean** — structured AI reasoning and decision-workflow research.
+[Portfolio — jankoci.cz](https://jankoci.cz) · [LinkedIn](https://www.linkedin.com/in/jankoci/)
 
-Some projects live privately while they are being developed, tested or used internally.
-
----
-
-## 🤝 Contributions
-
-**VOODOO ecosystem** — contributor to collaborative work around AI reasoning, structured workflows and agent architecture.
-
----
-
-## Principles
-
-> **Understandable over magical.**  
-> **Evidence before assumptions.**  
-> **Automate the boring parts.**  
-> **Keep humans in control.**
-
-<div align="center">
-
-### [jankoci.cz](https://jankoci.cz)
-
-`systems / infrastructure / networks / AI / automation / music technology`
-
-</div>
+*Based in Prague, working remotely across Europe.*
